@@ -33,3 +33,5 @@ except ModuleNotFoundError:
     print("\n\nmake sure you have installed all of the module required to run this program\n\n")
 except KeyboardInterrupt:
     print("Interrupted")
+except:
+    pass

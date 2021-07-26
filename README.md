@@ -7,6 +7,9 @@ pip install eth_account
 
 pip install web3
 
+git clone https://github.com/yayack/eth-wallet-generator
+
+cd eth-wallet-generator
 
 command to run this program
 
